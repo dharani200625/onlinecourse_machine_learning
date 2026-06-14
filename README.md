@@ -1,7 +1,6 @@
 ## onlinecourse_machine_learning
 
-## **Project Title:**
-## **AI-Powered Personalized Learning Recommendation System**
+## **Project Title: AI-Powered Personalized Learning Recommendation System**
 
 ##  Project Overview
 
